@@ -4,7 +4,7 @@
     padding:0px; 
 }
 body{
-    background-image: url('Share.webp');
+    background-image: url('../images/Share.webp');
     background-size: cover;
     font-family: 'Open Sans', sans-serif;
 }
@@ -60,7 +60,7 @@ font-family: 'Krona One', sans-serif;
         padding:0px; 
     }
     body{
-        background-image: url('share1.jpg');
+        background-image: url('../images/share1.jpg');
         background-size: cover;
         font-family: 'Open Sans', sans-serif;
     }
